@@ -6,7 +6,7 @@
                 "name": "img",
                 "attributes": {
                     "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
-                    "style": "width: 429px; height: 283px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "style": "width: 429px; height: 383px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
                     "class": "absolute-element"
                 }
             }]
