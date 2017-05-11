@@ -17,6 +17,394 @@
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
             "value": "ES6, Before & Beyond"
+        }],
+        [{
+            "name": "h2",
+            "value": "Agenda"
+        }, {
+            "name": "div",
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Introduction: Javascript History, Visioning & Compatibility (Day 1)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Variables, Parameters & Arguments (Day 1)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Object Literals & New Types (Day 1)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Classes (Day 2)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Modules (Day 2)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Reflect API (Day 2)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Proxy API (Day 2)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Asynchronous I/O (Day 3)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Type Checking with Facebook Flow (Day 3)"
+                }]
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25792867/efe67c8c-33d1-11e7-9832-6a3434010d99.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Of Javascript"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25793065/fcba647c-33d2-11e7-84dc-41fd7f2331d2.jpg",
+                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -420px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 500px; top: 0;"
+            },
+            "value": "Back to 1995"
+        }],
+        [{
+            "name": "h2",
+            "value": "WWWW1 - World Wide Web War I"
+        }, {
+            "name": "div",
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Netscape Communications Corporation vs. Microsoft"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Netscape Navigator vs. Internet Explorer"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Competition for Dominance - Rule the Internet"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "Netscape Navigator - most widely used browser"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "4"
+                    },
+                    "value": "Microsoft had licensed Mosaic to create Internet Explorer"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "5"
+                    },
+                    "value": "Development was rapid and new features were routinely added"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "6"
+                    },
+                    "value": "Internet Explorer 4 changed the tides of the browser wars - was integrated into Win98"
+                }]
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25796521/75bccfd6-33e2-11e7-80ed-a7f67efb6c8f.jpg",
+                    "style": "width: 400px; height: 260px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 600px; top: -320px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25796523/75c77c1a-33e2-11e7-9a5b-0dc8e44f41c2.png",
+                    "style": "width: 80px; height: 80px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 920px; top: -140px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "0"
+                }
+            }]
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25796522/75c45800-33e2-11e7-917e-05edd04aacba.jpeg",
+                    "style": "width: 200px; height: 200px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 100px; top: -320px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "1"
+                }
+            }]
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25802301/67453976-33fa-11e7-8941-4b83970b836f.png",
+                    "style": "border: none; width: 360px; height: 180px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 420px; top: -360px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "2"
+                }
+            }]
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25796524/75c7b8d8-33e2-11e7-9586-bee259b0e4d3.jpg",
+                    "style": "width: 260px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 360px; top: 40px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "3"
+                }
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": "The first version of JavaScript (named Mocha)<br>was created by Brendan Eich in 10 days<br>May 6th-15th, 1995"
+        }],
+        [{
+            "name": "h2",
+            "value": "Evolution"
+        }, {
+            "name": "div",
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "05/95: Mocha"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "09/95: LiveScript"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "12/95: JavaScript"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "11/96: Submitted to <a href=\"http://www.ecma-international.org/\">ECMA International</a> for standardization"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "4"
+                    },
+                    "value": "06/97: <a href=\"http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf\">ECMA-262 Ed. 1</a>, a.k.a ES1"
+                }]
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25806902/93cba10c-340d-11e7-9296-3dba554dab2d.png",
+                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -220px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 260px; top: 300px;"
+            },
+            "value": "ECMAScript"
+        }],
+        [{
+            "name": "h2",
+            "value": "ECMAScript Dialects"
+        }, {
+            "name": "div",
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Javascript"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "JScript"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "ActionScript"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "QtScript"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "4"
+                    },
+                    "value": "Objective-J"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "5"
+                    },
+                    "value": "..."
+                }]
+            }]
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -300px;"
+            },
+            "value": "ECMAScript Base Philosophy"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25936108/dca9c2f0-362e-11e7-9ce2-5a7dd9505ad5.jpg",
+                    "style": "width: 920px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 80px; top: -220px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "position: absolute; left: 120px; top: -60px; z-index: 10;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "0"
+                },
+                "value": "Fully Backwards Compatibility"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "1"
+                },
+                "value": "No Breaking Changes"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "2"
+                },
+                "value": "No Versions Boundaries"
+            }]
         }]
     ]
 }]
