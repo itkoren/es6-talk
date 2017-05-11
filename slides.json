@@ -133,6 +133,16 @@
         }, {
             "name": "div",
             "value": [{
+                "name": "p",
+                "value": [{
+                    "name": "img",
+                    "attributes": {
+                        "src": "https://cloud.githubusercontent.com/assets/3624786/25941562/a08ea164-3642-11e7-8a8c-d46143172860.jpg",
+                        "style": "opacity: 0.5; width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; left: 569px; top: 86px; z-index: -2;",
+                        "class": "absolute-element"
+                    }
+                }]
+            }, {
                 "name": "ul",
                 "value": [{
                     "name": "li",
@@ -244,6 +254,28 @@
         [{
             "name": "p",
             "value": "The first version of JavaScript (named Mocha)<br>was created by Brendan Eich in 10 days<br>May 6th-15th, 1995"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25954880/358c2c6e-3670-11e7-9816-0caa3872ccc9.png",
+                    "style": "width: 540px; height: 560px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0px; top: -320px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25951848/9c492a46-3667-11e7-9f1b-5565b2975a82.jpg",
+                    "style": "width: 822px; height: 560px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0px; top: -320px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "0"
+                }
+            }]
         }],
         [{
             "name": "h2",
