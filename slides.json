@@ -115,7 +115,7 @@
                 "name": "img",
                 "attributes": {
                     "src": "https://cloud.githubusercontent.com/assets/3624786/25793065/fcba647c-33d2-11e7-84dc-41fd7f2331d2.jpg",
-                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -420px;",
+                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -340px;",
                     "class": "absolute-element"
                 }
             }]
@@ -194,6 +194,19 @@
                     },
                     "value": "Internet Explorer 4 changed the tides of the browser wars - was integrated into Win98"
                 }]
+            }]
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "h2",
+                "value": "Netscape's Launch Website"
+            }, {
+                "name": "iframe",
+                "attributes": {
+                    "src": "//home.mcom.com/home/welcome.html",
+                    "style": "width: 916px; height: 692px; max-height: none; max-width: none; background: #FFFFFF;"
+                }
             }]
         }],
         [{
@@ -290,55 +303,44 @@
                         "class": "fragment",
                         "data-fragment-index": "0"
                     },
-                    "value": "05/95: Mocha"
+                    "value": "04/95: Brendan came to Netscape to build Scheme in the browser"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
                         "data-fragment-index": "1"
                     },
-                    "value": "09/95: LiveScript"
+                    "value": "05/95: Mocha"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
                         "data-fragment-index": "2"
                     },
-                    "value": "12/95: JavaScript"
+                    "value": "09/95: LiveScript"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
                         "data-fragment-index": "3"
                     },
-                    "value": "11/96: Submitted to <a href=\"http://www.ecma-international.org/\">ECMA International</a> for standardization"
+                    "value": "12/95: JavaScript"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
                         "data-fragment-index": "4"
                     },
+                    "value": "11/96: Submitted to <a href=\"http://www.ecma-international.org/\">ECMA International</a> for standardization"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "5"
+                    },
                     "value": "06/97: <a href=\"http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf\">ECMA-262 Ed. 1</a>, a.k.a ES1"
                 }]
             }]
-        }],
-        [{
-            "name": "p",
-            "value": [{
-                "name": "img",
-                "attributes": {
-                    "src": "https://cloud.githubusercontent.com/assets/3624786/25806902/93cba10c-340d-11e7-9296-3dba554dab2d.png",
-                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -220px;",
-                    "class": "absolute-element"
-                }
-            }]
-        }, {
-            "name": "h2",
-            "attributes": {
-                "class": "absolute-element",
-                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 260px; top: 300px;"
-            },
-            "value": "ECMAScript"
         }],
         [{
             "name": "h2",
@@ -374,19 +376,26 @@
                         "class": "fragment",
                         "data-fragment-index": "3"
                     },
-                    "value": "QtScript"
+                    "value": "Nashorn (Java)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
                         "data-fragment-index": "4"
                     },
-                    "value": "Objective-J"
+                    "value": "QtScript"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
                         "data-fragment-index": "5"
+                    },
+                    "value": "Objective-J"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "6"
                     },
                     "value": "..."
                 }]
@@ -437,6 +446,528 @@
                 },
                 "value": "No Versions Boundaries"
             }]
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -260px;"
+            },
+            "value": "ECMA's Role"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/26033673/cd19602a-38b8-11e7-92d0-83c0c89aeafc.jpg",
+                    "style": "width: 300px; height: 190px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 80px; top: -200px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "div",
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Facilitate discussion around changes and new features"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Form a committee for decision making and standardisation"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "TC39 - Technical Committee"
+                }]
+            }]
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "Members of TC39"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/26282260/89bb01fe-3e16-11e7-8f72-c205d5eaaaee.jpg",
+                    "style": "width: 519px; height: 340px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 80px; top: 80px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "width: 319px; height: 540px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 560px; top: 94px;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Google"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Apple"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Microsoft"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "eBay"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "4"
+                    },
+                    "value": "Mozilla"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "5"
+                    },
+                    "value": "Intel"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "6"
+                    },
+                    "value": "Facebook"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "7"
+                    },
+                    "value": "..."
+                }]
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25806902/93cba10c-340d-11e7-9296-3dba554dab2d.png",
+                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -120px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 240px; top: 400px;"
+            },
+            "value": "ECMAScript"
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 420px; top: 100px;",
+                "data-fragment-index": "0"
+            },
+            "value": "ES2015"
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 600px; top: 20px;",
+                "data-fragment-index": "1"
+            },
+            "value": "ES2016"
+        }, {
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 10px; top: -25px; font-size: 24px; font-weight: 900; text-align: left;",
+                "data-fragment-index": "2"
+            },
+            "value": "2002 - IE Crashes Netscape (96%)"
+        }, {
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 10px; top: 5px; font-size: 24px; font-weight: 900; text-align: left;",
+                "data-fragment-index": "3"
+            },
+            "value": "2003 - Netscape dies & open-sourced"
+        }, {
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 10px; top: 35px; font-size: 24px; font-weight: 900; text-align: left;",
+                "data-fragment-index": "4"
+            },
+            "value": "2003 - Mozilla was founded"
+        }, {
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 10px; top: 65px; font-size: 24px; font-weight: 900; text-align: left;",
+                "data-fragment-index": "5"
+            },
+            "value": "2004 - Phoenix was borned"
+        }, {
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 286px; top: 65px; font-size: 24px; font-weight: 900; text-align: left;",
+                "data-fragment-index": "6"
+            },
+            "value": "| Firebird"
+        }, {
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 382px; top: 65px; font-size: 24px; font-weight: 900; text-align: left;",
+                "data-fragment-index": "7"
+            },
+            "value": "| Firefox"
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "PLACEHOLDER!!!!!! TC39 1999-2009 GAP Movie"
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "PLACEHOLDER!!!!!! TC39 Stages Process"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/26547889/dc3fccfc-4479-11e7-91c6-7d026ccc73cf.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Compatibility"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/26547981/69b99c34-447a-11e7-814a-264092cac02f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: -260px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/26548189/86cfcb80-447b-11e7-8c49-bdd98e556c92.jpg",
+                    "style": "width: 629px; height: 320px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 179px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Kangax is our friend"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "a",
+                "attributes": {
+                    "href": "https://kangax.github.io/compat-table/es6/",
+                    "target": "_blank"
+                },
+                "value": "https://kangax.github.io/compat-table/es6/"
+            }, {
+                "name": "iframe",
+                "attributes": {
+                    "src": "//kangax.github.io/compat-table/es6/",
+                    "style": "width: 1016px; height: 642px; max-height: none; max-width: none; background: #FFFFFF;"
+                }
+            }]
+        }]
+    ]
+}, {
+    "steps": [
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Variables & Parameters"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "let, const & block scoping"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "Variables declared using <i>'var'</i> are hoisted to the top of the function (or global scope) regardless of where the actual declaration occurs"
+            }]
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "<i>'let'</i> works similarly to <i>'var'</i>, but the variable it declares is block-scoped; it only exists within the current block"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "<b>SO.......<i>'let'</i> is the new <i>'var'</i></b>"
+            }]
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "A <i>'const'</i> declaration works much like <i>'let'</i> except you must initialize the variable immediately with a value. And that value cannot be changed afterwards"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "'fat' arrow functions"
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -300px;"
+            },
+            "value": "Arrow Functions Benefits"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25936108/dca9c2f0-362e-11e7-9ce2-5a7dd9505ad5.jpg",
+                    "style": "width: 920px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 80px; top: -220px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "position: absolute; left: 120px; top: -60px; z-index: 10;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "0"
+                },
+                "value": "Concise Syntax"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "1"
+                },
+                "value": "Implicit Returns for a Single Line"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "2"
+                },
+                "value": "No New Lexical Context"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
+        }],
+        [{
+            "name": "h2",
+            "value": "Remember..."
+        }, {
+            "name": "div",
+            "value": [{
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "0"
+                },
+                "value": "Lexical 'this' binding – Determined by definition, not by use"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "1"
+                },
+                "value": "Not newable – Arrow functions cannot be used a constructors"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "2"
+                },
+                "value": "Can’t change 'this'"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "defaults"
         }]
     ]
 }]
