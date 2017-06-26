@@ -1,0 +1,14 @@
+{
+   "name": "es6-talk",
+   "version": "1.0.0",
+   "description": "ES6 Talk - ES6 Before & Beyond",
+   "scripts": {
+     "lite": "lite-server –port 8000",
+     "start": "npm run lite"
+   },
+   "author": "Itai Koren [@itkoren]",
+   "license": "MIT",
+   "devDependencies": {
+     "lite-server": "latest"
+   }
+}
