@@ -1352,7 +1352,7 @@
             "name": "div",
             "value": [{
                 "name": "p",
-                "value": "Symbols are new primitive types. Every symbol value is unique. A symbol value may be used as an identifier for object properties"
+                "value": "One of the ES6 metaprogramming tools, Symbols are a new primitive. Every symbol value is unique. A symbol value may be used as an identifier for object properties"
             }]
         }],
         [{
@@ -1379,6 +1379,35 @@
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
             "value": "Example"
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -300px;"
+            },
+            "value": "Symboles, What are they good for?"
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "position: absolute; left: 120px; top: -60px; z-index: 10;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "0"
+                },
+                "value": "As a unique value where you’d probably normally use a String or Integer (Enums)"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "1"
+                },
+                "value": "A place to put metadata values in an Object (Non Enumarable)"
+            }]
         }]
     ]
 }]
