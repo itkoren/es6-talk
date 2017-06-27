@@ -1147,6 +1147,95 @@
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
             "value": "Example"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Exercise"
+        }]
+    ]
+}, {
+    "steps": [
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Object Literals & New Types"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Enhanced Object Literals"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "ES6 makes declaring object literals even more concise by providing shorthand syntax for multiple definitions"
+            }]
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "We also have the ability to use computed property and method keys in an object literal definition"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
         }]
     ]
 }]
