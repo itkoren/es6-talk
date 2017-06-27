@@ -948,7 +948,7 @@
                     "class": "fragment",
                     "data-fragment-index": "2"
                 },
-                "value": "Can’t change 'this'"
+                "value": "Can’t change 'this' - Arrow functions 'inherit' the scope"
             }]
         }],
         [{
@@ -968,6 +968,185 @@
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
             "value": "defaults"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "Default function parameters allow formal parameters to be initialized with default values if no value or undefined is passed"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "rest & spread"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "The rest parameter syntax allows us to represent an indefinite number of arguments as an array"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "The spread syntax allows an expression to be expanded in places where multiple arguments/elements/variables are expected"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "template literals"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Destructuring assignment"
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "value": "The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example"
         }]
     ]
 }]
