@@ -895,14 +895,16 @@
                 "name": "a",
                 "attributes": {
                     "href": "https://kangax.github.io/compat-table/es6/",
-                    "target": "_blank"
+                    "target": "_blank",
+                    "class": "absolute-element",
+                    "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 266px; top: -28px; font-size: 24px; font-weight: 900; text-align: left;"
                 },
                 "value": "https://kangax.github.io/compat-table/es6/"
             }, {
                 "name": "iframe",
                 "attributes": {
                     "src": "//kangax.github.io/compat-table/es6/",
-                    "style": "width: 1016px; height: 642px; max-height: none; max-width: none; background: #FFFFFF;"
+                    "style": "width: 1023px; height: 672px; max-height: none; max-width: none; background: #FFFFFF;"
                 }
             }]
         }]
