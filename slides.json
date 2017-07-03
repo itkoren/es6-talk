@@ -659,20 +659,188 @@
             "value": "| Firefox"
         }],
         [{
-            "name": "h2",
-            "attributes": {
-                "class": "absolute-element",
-                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
-            },
-            "value": "PLACEHOLDER!!!!!! TC39 1999-2009 GAP Movie"
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/27781379-498bd1f8-5fd6-11e7-9d4f-7357286627b8.png",
+                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -330px; z-index: -10",
+                    "class": "absolute-element"
+                }
+            }, {
+                "name": "div",
+                "attributes": {
+                    "style": "width: 440px; height: 235px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 184px; top: -104px; z-index: 9999;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "1"
+                },
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//drive.google.com/file/d/0B7la1P4wqIJ-VzZpaUI4WG1Fd2c/preview",
+                        "width": "440",
+                        "height": "235",
+                        "style": "width: 440px; height: 235px; max-height: none; max-width: none;",
+                        "webkitallowfullscreen": true,
+                        "mozallowfullscreen": true,
+                        "allowfullscreen": true
+                    }
+                }]
+            }]
         }],
         [{
             "name": "h2",
             "attributes": {
                 "class": "absolute-element",
-                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
             },
-            "value": "PLACEHOLDER!!!!!! TC39 Stages Process"
+            "value": "July 2018"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/27784999-d7c8625c-5fe4-11e7-9158-2e2c11435a18.png",
+                    "style": "width: 389px; height: 340px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 10px; top: 80px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "width: 669px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 430px; top: 94px;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "TC39 Meets in Oslo"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Agrees to pospone ES4 (implemented in ES6)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Agrees to implement ES3.1 and rename it to ES5 (marketing reasons)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "All additional features proposals will go into the Harmony list"
+                }]
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/27784695-aa0fab6e-5fe3-11e7-86ba-75ab4c10a857.png",
+                    "style": "width: 1024px; height: 700px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0; top: -330px; z-index: -10",
+                    "class": "absolute-element"
+                }
+            }]
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "TC39 Standardization Process"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/27785748-3d8d3d2c-5fe7-11e7-8836-05fe3396fe53.png",
+                    "style": "width: 389px; height: 340px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 10px; top: 80px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "width: 669px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 430px; top: 144px;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Frequent releases <span style='font-size: 18px;'>(yearly)</span>"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Step 0: Strawman <span style='font-size: 18px;'>(Free-form ideas)</span>"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Step 1: Proposal <span style='font-size: 18px;'>(Formally accepted proposal)</span>"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "Step 2: Draft <span style='font-size: 18px;'>(Description of syntax and semantics)</span>"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "4"
+                    },
+                    "value": "Step 3: Candidate <span style='font-size: 18px;'>(Spec complete, at least 2 implementations)</span>"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "5"
+                    },
+                    "value": "Step 4: Finished <span style='font-size: 18px;'>(Ready for standard, pass unit testing)</span>"
+                }]
+            }]
+        }],
+        [{
+            "name": "div",
+            "value": [{
+                "name": "p",
+                "attributes": {
+                    "class": "absolute-element",
+                    "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 386px; top: -28px; font-size: 24px; font-weight: 900; text-align: left;"
+                },
+                "value": "Visualize TC39 Process"
+            }, {
+                "name": "iframe",
+                "attributes": {
+                    "src": "//azu.github.io/tc39-svg/",
+                    "style": "width: 1023px; height: 672px; max-height: none; max-width: none; background: #FFFFFF;"
+                }
+            }]
         }],
         [{
             "name": "p",
@@ -1408,6 +1576,27 @@
                 },
                 "value": "A place to put metadata values in an Object (Non Enumarable)"
             }]
+        }]
+    ]
+}, {
+    "steps": [
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Asynchronouse I/O"
         }]
     ]
 }]
