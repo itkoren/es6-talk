@@ -31,7 +31,7 @@
                         "class": "fragment",
                         "data-fragment-index": "0"
                     },
-                    "value": "Introduction: Javascript History, Visioning & Compatibility (Day 1)"
+                    "value": "Introduction: Javascript History, Versioning & Compatibility (Day 1)"
                 }, {
                     "name": "li",
                     "attributes": {
@@ -59,13 +59,6 @@
                         "class": "fragment",
                         "data-fragment-index": "1"
                     },
-                    "value": "Modules (Day 2)"
-                }, {
-                    "name": "li",
-                    "attributes": {
-                        "class": "fragment",
-                        "data-fragment-index": "1"
-                    },
                     "value": "Reflect API (Day 2)"
                 }, {
                     "name": "li",
@@ -74,6 +67,13 @@
                         "data-fragment-index": "1"
                     },
                     "value": "Proxy API (Day 2)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Modules (Day 3)"
                 }, {
                     "name": "li",
                     "attributes": {
@@ -709,7 +709,7 @@
                 "class": "absolute-element",
                 "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
             },
-            "value": "July 2018"
+            "value": "July 2008"
         }, {
             "name": "p",
             "value": [{
@@ -1616,7 +1616,7 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "https://cloud.githubusercontent.com/assets/3624786/25780850/c87e61f4-3337-11e7-89d4-edd25698191f.jpg",
+                    "src": "https://user-images.githubusercontent.com/3624786/28496584-839eaea0-6f77-11e7-8878-df04b0132b8e.png",
                     "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
                     "class": "absolute-element"
                 }
@@ -1628,6 +1628,446 @@
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
             "value": "Asynchronouse I/O"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28499541-fa748c4a-6fc0-11e7-92ac-141ae17be66f.png",
+                    "style": "width: 369px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 309px; top: -86px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Iterators"
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "Lets start with some questions:"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28510343-8c4df9aa-7050-11e7-96a3-da3ea46aaa57.png",
+                    "style": "width: 189px; height: 140px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0px; top: 0px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "1"
+                }
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28510328-7e3b1190-7050-11e7-9a61-61f583109445.png",
+                    "style": "width: 189px; height: 140px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 180px; top: 90px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "2"
+                }
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28510484-57a201a0-7051-11e7-9ddb-3727ecf1d9d4.png",
+                    "style": "width: 289px; height: 140px; max-height: none; max-width: none; position: absolute; z-index: 4; left: -140px; top: 240px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "4"
+                }
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28510562-cb38876a-7051-11e7-944f-1d679b6b48b9.png",
+                    "style": "width: 289px; height: 140px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 100px; top: 280px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "5"
+                }
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28510957-8ed11eca-7053-11e7-828b-a51a05197b0e.png",
+                    "style": "width: 349px; height: 240px; max-height: none; max-width: none; position: absolute; z-index: 4; left: -180px; top: 440px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "7"
+                }
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28511318-6119b30a-7055-11e7-9704-078292138b8b.png",
+                    "style": "width: 349px; height: 240px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 290px; top: 450px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "9"
+                }
+            }]
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "width: 669px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 430px; top: 144px;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "What can you find on your desk which is <b><i>iterable</i></b>?"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "What can you find from the JS 'world' which is <b><i>iterable</i></b>?"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "6"
+                    },
+                    "value": "What is an example for an <b><i>iterator</i></b>?"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "8"
+                    },
+                    "value": "What is the relationship between <b><i>iterable</i></b> and <b><i>iterator</i></b>?"
+                }]
+            }]
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "In JS, Iterators have a <b><i>next()</i></b> method:"
+        }, {
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28510328-7e3b1190-7050-11e7-9a61-61f583109445.png",
+                    "style": "width: 189px; height: 140px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 180px; top: 90px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "1"
+                }
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28511900-1716a918-7058-11e7-8322-4c6322b80326.png",
+                    "style": "width: 289px; height: 140px; max-height: none; max-width: none; position: absolute; z-index: 4; left: -140px; top: 240px;",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "2"
+                }
+            }]
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "width: 669px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 430px; top: 144px;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Using the previous answers, what <b><i>next()</i></b> does?"
+                }]
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example WIP"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28512865-544e79b0-705c-11e7-82a3-9774389f2059.png",
+                    "style": "width: 489px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 239px; top: -86px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Generators"
+        }],
+        [{
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "What do you think of when I say <b><i>Generator</i></b>?"
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "width: 669px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: -100px; top: 40px;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Electrical Generator"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Random Number Generator"
+                }]
+            }]
+        }, {
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element fragment",
+                "style": "position: absolute; width: 920px; height: 65px; z-index: 4; left: 30px; top: 160px;",
+                "data-fragment-index": "2"
+            },
+            "value": "What is the relationship between <b><i>generators</i></b> and <b><i>iterators</i></b>?"
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "width: 669px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: -100px; top: 220px;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "<b><i>Generators</i></b> create <b><i>Iterators</i></b>"
+                }]
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example WIP"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28496595-c84558f6-6f77-11e7-9500-ef4a08b3cb45.png",
+                    "style": "width: 369px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 309px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Promises"
+        }],
+        [{
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -200px;"
+            },
+            "value": "The world of Promises"
+        }, {
+            "name": "div",
+            "attributes": {
+                "style": "position: absolute; left: 120px; top: -60px; z-index: 10;",
+                "class": "absolute-element"
+            },
+            "value": [{
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "0"
+                },
+                "value": "First coined by Barbara Liskov (1988)"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "1"
+                },
+                "value": "Made mainstream by jQuery"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "2"
+                },
+                "value": "BlueBird & Q"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "3"
+                },
+                "value": "ES6 brought a Promises/A+ compliant Promise global"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "4"
+                },
+                "value": "WHATWG Fetch spec and the Async Functions standard were built on top"
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28496649-722d0674-6f79-11e7-8730-c0733832f2be.png",
+                    "style": "width: 1016px; height: 590px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0px; top: -260px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28497503-abbdc05a-6f91-11e7-8ff3-59371cfd31c0.png",
+                    "style": "width: 1016px; height: 590px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 0px; top: -260px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example WIP"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28515521-97466bf6-7066-11e7-8403-eda754436a94.png",
+                    "style": "width: 629px; height: 440px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 179px; top: -86px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "WHATWG Fetch"
+        }],
+        [{
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "The Fetch API provides an interface for fetching resources which is more powerful and flexible (than XMLHTTP)"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example WIP"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28515521-97466bf6-7066-11e7-8403-eda754436a94.png",
+                    "style": "width: 629px; height: 440px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 179px; top: -86px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Async / Await"
         }]
     ]
 }]
