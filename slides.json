@@ -2056,8 +2056,8 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "https://user-images.githubusercontent.com/3624786/28515521-97466bf6-7066-11e7-8403-eda754436a94.png",
-                    "style": "width: 629px; height: 440px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 179px; top: -86px;",
+                    "src": "https://user-images.githubusercontent.com/3624786/28530024-02eddf5e-709b-11e7-9436-566773c38c94.png",
+                    "style": "width: 429px; height: 420px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 270px; top: -86px;",
                     "class": "absolute-element"
                 }
             }]
@@ -2068,6 +2068,82 @@
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
             "value": "Async / Await"
+        }],
+        [{
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "The <b><i>async</i></b> function declaration defines an asynchronous function, which when called, returns a Promise"
+        }],
+        [{
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "When the <b><i>async</i></b> function returns a value, the Promise will be resolved with the returned value"
+        }],
+        [{
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "When the <b><i>async</i></b> function throws an exception or some value, the Promise will be rejected with the thrown value"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example WIP"
+        }],
+        [{
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "The <b><i>await</i></b> operator is used to wait for a Promise. It can only be used inside an <b><i>async</i></b> function"
+        }],
+        [{
+            "name": "p",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
+            },
+            "value": "The <b><i>await</i></b> expression causes <b><i>async</i></b> function execution to pause, to wait for the Promise's resolution, and to resume the <b><i>async</i></b> function execution when the value is resolved"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "",
+                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Example WIP"
         }]
     ]
 }]
