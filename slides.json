@@ -29,63 +29,72 @@
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "0"
+                        "data-fragment-index": "0",
+                        "style": "color: #d6ffc6;"
                     },
-                    "value": "Introduction: Javascript History, Versioning & Compatibility (Day 1)"
+                    "value": "Introduction: JS History, Versioning & Compatibility (Day 1)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "0"
+                        "data-fragment-index": "0",
+                        "style": "color: #d6ffc6;"
                     },
                     "value": "Variables, Parameters & Arguments (Day 1)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "0"
+                        "data-fragment-index": "0",
+                        "style": "color: #d6ffc6;"
                     },
                     "value": "Object Literals & New Types (Day 1)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "1"
+                        "data-fragment-index": "1",
+                        "style": "color: #ffffa8;"
+                    },
+                    "value": "Object Literals & New Types - Cont. (Day 2)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1",
+                        "style": "color: #ffffa8;"
                     },
                     "value": "Classes (Day 2)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "1"
+                        "data-fragment-index": "2",
+                        "style": "color: #a0ebff;"
                     },
-                    "value": "Reflect API (Day 2)"
+                    "value": "Meta Programming (Day 3)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "1"
-                    },
-                    "value": "Proxy API (Day 2)"
-                }, {
-                    "name": "li",
-                    "attributes": {
-                        "class": "fragment",
-                        "data-fragment-index": "2"
+                        "data-fragment-index": "2",
+                        "style": "color: #a0ebff;"
                     },
                     "value": "Modules (Day 3)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "2"
+                        "data-fragment-index": "2",
+                        "style": "color: #a0ebff;"
                     },
                     "value": "Asynchronous I/O (Day 3)"
                 }, {
                     "name": "li",
                     "attributes": {
                         "class": "fragment",
-                        "data-fragment-index": "2"
+                        "data-fragment-index": "2",
+                        "style": "color: #a0ebff;"
                     },
                     "value": "Type Checking with Facebook Flow (Day 3)"
                 }]
