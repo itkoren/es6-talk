@@ -2144,6 +2144,24 @@
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
             "value": "Example"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/28752724-0ec31ff4-752f-11e7-9ea4-675b80f00f7d.png",
+                    "style": "width: 769px; height: 480px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 109px; top: -100px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Exercise"
         }]
     ]
 }]
