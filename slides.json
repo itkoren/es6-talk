@@ -1793,7 +1793,7 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "",
+                    "src": "https://user-images.githubusercontent.com/3624786/28751723-d082d82c-7517-11e7-9330-c50db01724ef.png",
                     "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
                     "class": "absolute-element"
                 }
@@ -1804,7 +1804,7 @@
                 "class": "absolute-element",
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
-            "value": "Example WIP"
+            "value": "Example"
         }],
         [{
             "name": "p",
@@ -1886,7 +1886,7 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "",
+                    "src": "https://user-images.githubusercontent.com/3624786/28751738-3e43a526-7518-11e7-900b-a73880d4fa11.png",
                     "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
                     "class": "absolute-element"
                 }
@@ -1897,7 +1897,7 @@
                 "class": "absolute-element",
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
-            "value": "Example WIP"
+            "value": "Example"
         }],
         [{
             "name": "p",
@@ -1905,7 +1905,7 @@
                 "name": "img",
                 "attributes": {
                     "src": "https://user-images.githubusercontent.com/3624786/28496595-c84558f6-6f77-11e7-9500-ef4a08b3cb45.png",
-                    "style": "width: 369px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 309px; top: 6px;",
+                    "style": "width: 469px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 249px; top: 6px;",
                     "class": "absolute-element"
                 }
             }]
@@ -1994,8 +1994,8 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "",
-                    "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
+                    "src": "https://user-images.githubusercontent.com/3624786/28751748-8d8057ce-7518-11e7-99a6-1e3d9be49ff2.png",
+                    "style": "width: 469px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 249px; top: 6px;",
                     "class": "absolute-element"
                 }
             }]
@@ -2005,7 +2005,7 @@
                 "class": "absolute-element",
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
-            "value": "Example WIP"
+            "value": "Example"
         }],
         [{
             "name": "p",
@@ -2038,7 +2038,7 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "",
+                    "src": "https://user-images.githubusercontent.com/3624786/28751780-1f196824-7519-11e7-9490-b3007ec17e3e.png",
                     "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
                     "class": "absolute-element"
                 }
@@ -2049,7 +2049,7 @@
                 "class": "absolute-element",
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
-            "value": "Example WIP"
+            "value": "Example"
         }],
         [{
             "name": "p",
@@ -2098,7 +2098,7 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "",
+                    "src": "https://user-images.githubusercontent.com/3624786/28751793-5aba2fda-7519-11e7-9348-b4c7424d247a.png",
                     "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
                     "class": "absolute-element"
                 }
@@ -2109,7 +2109,7 @@
                 "class": "absolute-element",
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
-            "value": "Example WIP"
+            "value": "Example"
         }],
         [{
             "name": "p",
@@ -2132,7 +2132,7 @@
             "value": [{
                 "name": "img",
                 "attributes": {
-                    "src": "",
+                    "src": "https://user-images.githubusercontent.com/3624786/28751825-f5eab4fc-7519-11e7-8f30-e3e5cc364a17.png",
                     "style": "width: 429px; height: 380px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: 6px;",
                     "class": "absolute-element"
                 }
@@ -2143,7 +2143,7 @@
                 "class": "absolute-element",
                 "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
             },
-            "value": "Example WIP"
+            "value": "Example"
         }]
     ]
 }]
