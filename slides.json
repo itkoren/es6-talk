@@ -2006,6 +2006,14 @@
             }]
         }],
         [{
+            "name": "code",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 964px; height: 422px; z-index: 4; left: 116px; top: 200px; text-align: left;"
+            },
+            "value": "new Promise((resolve, reject) => {<br>\n&nbsp;&nbsp;...<br>\n&nbsp;&nbsp;if (...) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;resolve(value); // success<br>\n&nbsp;&nbsp;} else {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;reject(reason); // failure<br>\n&nbsp;&nbsp;}<br>\n});"
+        }],
+        [{
             "name": "p",
             "value": [{
                 "name": "img",
@@ -2059,6 +2067,24 @@
                 "style": "position: absolute; width: 720px; height: 65px; z-index: 4; left: 160px; top: -20px;"
             },
             "value": "The Fetch API provides an interface for fetching resources which is more powerful and flexible (than XMLHTTP)"
+        }],
+        [{
+            "name": "p",
+            "value": [{
+                "name": "img",
+                "attributes": {
+                    "src": "https://user-images.githubusercontent.com/3624786/29002846-5d034d94-7ab4-11e7-8ea6-49804fcb6fad.png",
+                    "style": "width: 629px; height: 440px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 179px; top: -86px;",
+                    "class": "absolute-element"
+                }
+            }]
+        }, {
+            "name": "h2",
+            "attributes": {
+                "class": "absolute-element",
+                "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 420px;"
+            },
+            "value": "Fetch is WIP"
         }],
         [{
             "name": "p",
